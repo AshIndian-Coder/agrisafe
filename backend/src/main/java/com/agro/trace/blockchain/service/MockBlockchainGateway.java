@@ -6,11 +6,6 @@ import org.springframework.stereotype.Service;
 
 import java.math.BigInteger;
 import java.util.UUID;
-
-/**
- * Mock blockchain gateway used when app.blockchain.enabled=false.
- * Mirrors SupplyChain.sol's function names 1:1 - see BlockchainGateway.
- */
 @Service
 @ConditionalOnProperty(name = "app.blockchain.enabled", havingValue = "false", matchIfMissing = true)
 @Slf4j
