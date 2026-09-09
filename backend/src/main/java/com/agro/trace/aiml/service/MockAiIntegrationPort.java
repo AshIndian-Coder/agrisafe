@@ -5,10 +5,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
-/**
- * Mock AI integration for SIH prototype.
- * In production, replace with actual AI/ML model integration.
- */
 @Service
 @Slf4j
 public class MockAiIntegrationPort implements AiIntegrationPort {
