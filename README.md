@@ -104,7 +104,7 @@ npm run dev
 | Variable | Description |
 |----------|-------------|
 | `DB_USERNAME` | MySQL username |
-| `DB_PASSWORD` | MySQL password |
+| `Db_Pass` | MySQL password |
 | `JWT_SECRET` | JWT signing secret (base64) |
 | `THIRDWEB_SECRET_KEY` | Thirdweb project secret key |
 | `THIRDWEB_CONTRACT_ADDRESS` | Smart contract address |
