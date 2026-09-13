@@ -23,7 +23,6 @@ Polygon Amoy Testnet (Smart Contract)
 
 ## Smart Contract
 
-**Address:** `0x052dDa611de283Bcb37C3BCC1c7d1067cF5B38d4`  
 **Network:** Polygon Amoy Testnet (chain ID `80002`)
 
 ### On-Chain Flow
